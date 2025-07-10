@@ -1,1 +1,2 @@
 # Datathon2025_BrainByte_Code
+Proyek ini dikembangkan untuk Datathon 2025 yang diselenggarakan oleh Ristek FASILKOM UI. Tujuan utama proyek ini adalah untuk membuat solusi data-driven yang dapat membantu UMKM Mikro dalam memilih logistik/kurir jasa ekspedisi terbaik berdasarkan ongkos kirim dan estimasi waktu pengiriman.
